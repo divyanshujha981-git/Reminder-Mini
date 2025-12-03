@@ -1,4 +1,4 @@
-  # 📝 Reminder
+  # 📝 Reminder-Mini
 
 **Reminder** is a simple yet powerful task manager designed not just for personal productivity but also for seamless task sharing with others. Whether you're organizing your own schedule or coordinating tasks with friends, family, or teammates, Reminder makes task management effortless, collaborative, and reliable — even offline.
 
@@ -50,5 +50,6 @@ https://github.com/user-attachments/assets/655cabf2-d3ac-4c04-9625-63862e335216
 
 ## 📄 License
 This project is licensed under the MIT License.
+
 
 
