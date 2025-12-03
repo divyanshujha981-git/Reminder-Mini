@@ -22,8 +22,7 @@
 - **UI:** XML
 - **Architecture:** MVVM
 - **Local Storage:** SQLite
-- **Cloud Storage:** Firebase
-- **Notifications:** Android AlarmManager, Firebase cloud messaging for shared task, reeust updates, etc.
+- **Notifications:** Android AlarmManager
 
 ---
 
@@ -50,6 +49,7 @@ https://github.com/user-attachments/assets/655cabf2-d3ac-4c04-9625-63862e335216
 
 ## 📄 License
 This project is licensed under the MIT License.
+
 
 
 
